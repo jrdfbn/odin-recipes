@@ -1,4 +1,3 @@
 # odin-recipes
-Fist project from The Odin Project called Recipes
-You can view this project on the web via this link:
-https://jrdfbn.github.io/odin-recipes/
+Fist project from The Odin Project called Recipes.
+All images and recipes used in this project are from https://www.allrecipes.com/
